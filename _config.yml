@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Your Comic Title
-tab_title: Your Comic! #This text shows up on the browser tab
+tab_title: WWFS #This text shows up on the browser tab
 email:
 description: Here's the description of your comic!
 url: "https://matthieule.github.io/wetwetfrenchsummer/" # the base hostname & protocol for your site
