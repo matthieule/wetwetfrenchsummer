@@ -20,9 +20,9 @@ description: Here's the description of your comic!
 url: "https://peahatlanding.github.io/Plain-Webcomic/" # the base hostname & protocol for your site
 
 # Comic Social Media
-twitter_username: http://twitter.com/peahat
-tumblr_username: http://peahat.tumblr.com
-patreon_username: peahat
+twitter_username: 
+tumblr_username: 
+patreon_username: 
 
 # Author Social Media
 author_twitter_username:
