@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your Comic Title
+title: Wet Wet French Summer
 tab_title: WWFS #This text shows up on the browser tab
 email:
-description: Here's the description of your comic!
+description: 
 url: "https://matthieule.github.io/wetwetfrenchsummer/" # the base hostname & protocol for your site
 
 # Comic Social Media
