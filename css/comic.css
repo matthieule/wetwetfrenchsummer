@@ -58,7 +58,7 @@ body {
 /*=============================*/
 
 .jumbotron {
-  background-image: url({{ site.url }}/images/IMG_0022.JPG);
+  background-image: url({{ site.url }}/images/IMG_0023.JPG);
   font-family: 'Fredoka One', cursive;
 }
 
