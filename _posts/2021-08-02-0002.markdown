@@ -3,6 +3,6 @@ layout: comic
 title:  "2"
 date:   2021-08-02
 categories: page
-permalink: /002
+permalink: /0002
 ---
 ![PAGE TWO]({{ site.url }}/pages/0002.JPG)
