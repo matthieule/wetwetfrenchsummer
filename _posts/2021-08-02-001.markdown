@@ -1,0 +1,8 @@
+---
+layout: comic
+date:   2021-08-02
+title: 1
+categories: page
+permalink: /0001
+---
+![PAGE ONE]({{ site.url }}/pages/0001.JPG)
