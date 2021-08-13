@@ -3,6 +3,6 @@ layout: comic
 title:  "5"
 date:   2021-08-04
 categories: page
-permalink: /0004
+permalink: /0005
 ---
-![PAGE THREE]({{ site.url }}/pages/0004.JPG)
+![PAGE THREE]({{ site.url }}/pages/0005.JPG)
