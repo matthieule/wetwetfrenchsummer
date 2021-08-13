@@ -1,0 +1,8 @@
+---
+layout: comic
+title:  "6"
+date:   2021-08-13
+categories: page
+permalink: /0006
+---
+![PAGE THREE]({{ site.url }}/pages/0006.JPG)
